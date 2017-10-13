@@ -5,25 +5,33 @@ h1 {
 }
 
 .panel-default > .panel-heading-custom1 {
-background: #ff0000; color: #fff; }
-
-.panel-default > .panel-heading-custom2 {
-background: #ff0000; color: #fff; }
-
-.panel-default > .panel-heading-custom3 {
-background: #ff0000; color: #fff; }
-
-.panel-default > .panel-heading-custom4 {
-background: #ff0000; color: #fff; }
+  background: #ff7b00; color: #3a3a3a; 
+}
 
 .panel-default > .panel-body-custom1 {
-background: #ff0000; color: #fff; }
+  background: #ff9a3d; color: #3a3a3a;
+}
+
+.panel-default > .panel-heading-custom2 {
+  background: #ff352b; color: #3a3a3a;
+}
 
 .panel-default > .panel-body-custom2 {
-background: #ff0000; color: #fff; }
+  background: #fc6a62; color: #3a3a3a;
+}
+
+.panel-default > .panel-heading-custom3 {
+  background: #0fa301; color: #3a3a3a;
+}
 
 .panel-default > .panel-body-custom3 {
-background: #ff0000; color: #fff; }
+  background: #81ef77; color: #3a3a3a;
+}
+
+.panel-default > .panel-heading-custom4 {
+  background: #5588db; color: #3a3a3a;
+}
 
 .panel-default > .panel-body-custom4 {
-background: #ff0000; color: #fff; }
+  background: #b0c4e5; color: #3a3a3a;
+}
