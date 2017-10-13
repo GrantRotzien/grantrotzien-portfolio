@@ -1,11 +1,32 @@
+img {
+  float: none;
+}
+
+footer {
+  align-items: center;
+}
+
+h6 {
+  font-size: 25px;
+}
 
 
 h1 {
   text-align: center;
 }
 
+#quote {
+  color: black;
+  text-align: center;
+}
+
+.slant {
+  font-style: italic;
+}
+
+
 .panel-default > .panel-heading-custom1 {
-  background: #ff7b00; color: #3a3a3a; 
+  background: #ff7b00; color: #3a3a3a;
 }
 
 .panel-default > .panel-body-custom1 {
