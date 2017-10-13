@@ -3,3 +3,27 @@
 h1 {
   text-align: center;
 }
+
+.panel-default > .panel-heading-custom1 {
+background: #ff0000; color: #fff; }
+
+.panel-default > .panel-heading-custom2 {
+background: #ff0000; color: #fff; }
+
+.panel-default > .panel-heading-custom3 {
+background: #ff0000; color: #fff; }
+
+.panel-default > .panel-heading-custom4 {
+background: #ff0000; color: #fff; }
+
+.panel-default > .panel-body-custom1 {
+background: #ff0000; color: #fff; }
+
+.panel-default > .panel-body-custom2 {
+background: #ff0000; color: #fff; }
+
+.panel-default > .panel-body-custom3 {
+background: #ff0000; color: #fff; }
+
+.panel-default > .panel-body-custom4 {
+background: #ff0000; color: #fff; }
